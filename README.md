@@ -1,0 +1,2 @@
+# cnameTest
+for cname test
