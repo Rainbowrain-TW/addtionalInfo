@@ -70,3 +70,11 @@
 優先順位名單可以自己調整檔案中的某行簡單的變更順序及新增或移除。
 
 [Trello Card Link](https://trello.com/c/XM6tO0mZ)
+
+-----
+
+#### React Practice
+
+[ToDo List](https://codepen.io/rainbowrain/pen/KLoZVo?editors=0110)
+
+[JobFinder](http://rainbowrain.tw/react/demo/)
