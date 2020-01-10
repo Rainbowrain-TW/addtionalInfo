@@ -1,40 +1,29 @@
-## Welcome to GitHub Pages
-# Rain's Addtional Experience
+## Rain's Addtional Experience
 
+#### 資策會時期的 iOS 作品
 ![Imgur](https://i.imgur.com/J1Oag2B.jpg)
 
-You can use the [editor on GitHub](https://github.com/Rainbowrain-TW/cnameTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 在宗偉科技的第一個專案
 
-### Markdown
+#### 醫院診間的叫號系統
+simpy mode
+![Imgur](https://i.imgur.com/5gqE2JL.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+full mode
+![Imgur](https://i.imgur.com/veaz5QG.jpg)
 
-```markdown
-Syntax highlighted code block
+#### 儀器資料收集系統
+主畫面
+![Imgur](https://i.imgur.com/KQHqLPo.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+參數設定功能
+![Imgur](https://i.imgur.com/sK1mzGy.jpg)
 
-- Bulleted
-- List
+#### 儀器資料確認介面(vanilla JS)
+儀器選擇畫面
+![Imgur](https://i.imgur.com/cQomPKI.png)
 
-1. Numbered
-2. List
+數據結算畫面
+![Imgur](https://i.imgur.com/hf8zij4.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rainbowrain-TW/cnameTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
