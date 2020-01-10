@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
-# Rain's CNAME test
+# Rain's Addtional Experience
 
+![Imgur](https://i.imgur.com/J1Oag2B.jpg)
 
 You can use the [editor on GitHub](https://github.com/Rainbowrain-TW/cnameTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
